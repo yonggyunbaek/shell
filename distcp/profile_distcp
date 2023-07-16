@@ -1,0 +1,12 @@
+##################
+# distcp profile #
+##################
+
+export hdfssource=
+export hdfsdestionation=
+
+export mysqluser=
+export mysqlpasswd=
+
+export hiveuser=
+export hivepasswd=
